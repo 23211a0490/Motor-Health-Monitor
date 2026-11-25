@@ -1,0 +1,21 @@
+{
+    "sensor_data": {
+        "timestamp": "2026-09-04 15:40:08",
+        "motor_id": "M001",
+        "voltage": 12.3,
+        "current": 1.13,
+        "power_w": 13.9,
+        "temperature": 46.68,
+        "rpm": 1319.8,
+        "vibration_rms": 0.781,
+        "vibration_peak": 1.327,
+        "operating_hours": 100.189
+    },
+    "ai_prediction": {
+        "timestamp": "2026-09-04 15:40:08",
+        "motor_id": "M001",
+        "condition": "Degraded",
+        "health_score": 46.7,
+        "confidence": 98.0
+    }
+}
